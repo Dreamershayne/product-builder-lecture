@@ -97,6 +97,11 @@ button[type="submit"]:hover {
   background: #005bb5;
 }
 
+.ad-unit {
+  margin-top: 2rem;
+  text-align: center;
+}
+
 .divider {
   border: none;
   border-top: 1px solid #d2d2d7;
