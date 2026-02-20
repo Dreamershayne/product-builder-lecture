@@ -97,6 +97,26 @@ button[type="submit"]:hover {
   background: #005bb5;
 }
 
+.divider {
+  border: none;
+  border-top: 1px solid #d2d2d7;
+  margin: 2.5rem 0 0;
+}
+
+.comments-section {
+  margin-top: 2rem;
+}
+
+.comments-section h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+#disqus_thread {
+  min-height: 200px;
+}
+
 @media (max-width: 560px) {
   .container {
     padding: 2rem 1.25rem;
